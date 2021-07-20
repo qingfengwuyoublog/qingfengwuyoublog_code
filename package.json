@@ -1,0 +1,17 @@
+{
+  "name": "qingfengwuyoublog_code",
+  "version": "1.0.0",
+  "description": "清风无忧博客项目",
+  "main": "",
+  "scripts": {
+    "dev": "vuepress dev docs -p 9800",
+    "docs:dev": "vuepress dev docs -p 9800",
+    "docs:build": "vuepress build docs",
+    "build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0"
+  }
+}
